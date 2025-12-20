@@ -46,9 +46,21 @@ structured, project-based learning and real-world problem solving.
 
 ---
 
-### 📊 GitHub Statistics
+## 📈 GitHub Analytics
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Naidi47&show_icons=true&theme=dark&hide_border=true" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naidi47&layout=compact&theme=dark&hide_border=true" />
+</td>
+</tr>
+</table>
+
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Naidi47&show_icons=true&theme=dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naidi47&theme=dark&hide_border=true" />
 </p>
 
 ---
