@@ -8,18 +8,8 @@ structured, project-based development and real-world problem solving.
 
 ### 🌐 Professional Network
 <p>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35" alt="Email"/>
-</a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="35" alt="Instagram"/>
-</a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"/>
-</a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="35" alt="Twitter"/>
-</a>
+Currently building a professional presence across industry platforms.
+Relevant links will be added as profiles and contributions mature.
 </p>
 
 ---
