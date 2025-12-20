@@ -9,6 +9,12 @@ structured, project-based learning and real-world problem solving.
 ---
 
 ### 🌐 Professional Network
+<p1> My Portfolio:  <a href="https://portfolio-git-main-naidi47s-projects.vercel.app/" target="_blank"></p1>
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+       alt="Portfolio"
+       width="22"/>
+</a>
+
 <p>
 <a href="mailto:muchukuntlabrahmanaidu@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -22,11 +28,7 @@ structured, project-based learning and real-world problem solving.
 <a href="https://github.com/Naidi47">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://portfolio-git-main-naidi47s-projects.vercel.app/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
-       alt="Portfolio"
-       width="48" />
-</a>
+
 
 
 </a>
