@@ -22,6 +22,12 @@ structured, project-based learning and real-world problem solving.
 <a href="https://github.com/Naidi47">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://portfolio-git-main-naidi47s-projects.vercel.app/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+       alt="Portfolio"
+       width="48" />
+</a>
+
 
 </a>
 </p>
