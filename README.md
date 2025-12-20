@@ -13,20 +13,15 @@ structured, project-based learning and real-world problem solving.
 <a href="mailto:muchukuntlabrahmanaidu@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-
 <a href="https://www.linkedin.com/in/brahmanaidu-m-17a1a9242/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="https://twitter.com/ursfvrtnaidu47">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-
 <a href="https://github.com/Naidi47">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-
 
 </a>
 </p>
@@ -62,10 +57,6 @@ structured, project-based learning and real-world problem solving.
 </td>
 </tr>
 </table>
-
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naidi47&theme=dark&hide_border=true" />
-</p>
 
 ---
 
