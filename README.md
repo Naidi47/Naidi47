@@ -29,12 +29,28 @@ structured, project-based learning and real-world problem solving.
 ---
 
 ### Technical Expertise
-**Core Stack:** Python • pandas • NumPy • scikit-learn • Statistics
 
----
+**Data Science:**  
+Python • pandas • NumPy • scikit-learn • Statistics • EDA • Feature Engineering
 
-### AI / ML Frameworks
-**Primary Tools:** TensorFlow • PyTorch • OpenCV
+**AI / ML:**  
+TensorFlow • PyTorch • Keras • XGBoost • LightGBM • OpenCV
+
+**Visualization:**  
+Matplotlib • Seaborn • Plotly
+
+**Data & Storage:**  
+SQL • CSV / Excel • JSON • DVC (learning)
+
+**Modeling & Evaluation:**  
+Pipelines • Cross-Validation • Hyperparameter Tuning • Model Evaluation
+
+**MLOps & Deployment:**  
+Git • GitHub • Docker (basics) • FastAPI • Model Serving (learning)
+
+**Platforms & Tools:**  
+Jupyter • Google Colab • VS Code • Linux (basics) • Virtual Environments
+
 
 ---
 
