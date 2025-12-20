@@ -11,7 +11,7 @@ structured, project-based learning and real-world problem solving.
 ### 🌐 Professional Network
 <p>
 <a href="mailto:muchukuntlabrahmanaidu@gmail.com">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="35" alt="Gmail"/>
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="35" alt="Gmail"/>
 </a>
 <a href="https://www.linkedin.com/in/brahmanaidu-m-17a1a9242/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"/>
