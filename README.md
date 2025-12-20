@@ -1,32 +1,62 @@
-# AI & ML Practitioner | Data Science Focused
+# Muchukuntla Brahmanaidu  
 
-Dedicated data science practitioner with strong foundations in **Python, pandas, scikit-learn, and statistical analysis**. 
-Currently focused on building applied expertise in **Machine Learning, Deep Learning, NLP, and Computer Vision** through 
-structured, project-based development and real-world problem solving.
+### AI & ML Practitioner | Data Science Focused
+
+Dedicated data science practitioner with strong foundations in **Python, pandas, scikit-learn, and statistical analysis**.  
+Focused on developing practical expertise in **Machine Learning, Deep Learning, NLP, and Computer Vision** through  
+structured, project-based learning and real-world problem solving.
 
 ---
 
 ### 🌐 Professional Network
 <p>
-Currently building a professional presence across industry platforms.
-Relevant links will be added as profiles and contributions mature.
+<a href="mailto:muchukuntlabrahmanaidu@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35" alt="Email"/>
+</a>
+
+<a href="https://www.linkedin.com/in/brahmanaidu-m-17a1a9242/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"/>
+</a>
+
+<a href="https://twitter.com/ursfvrtnaidu47">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="35" alt="Twitter"/>
+</a>
+
+<a href="https://github.com/Naidi47">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub"/>
+</a>
 </p>
 
 ---
 
-###  Technical Expertise
+### Technical Expertise
 **Core Stack:** Python • pandas • NumPy • scikit-learn • Statistics
 
 ---
 
-###  AI / ML Frameworks
+### AI / ML Frameworks
 **Primary Tools:** TensorFlow • PyTorch • OpenCV
 
 ---
 
-### 🎯 Current Focus
-- Building and evaluating end-to-end machine learning pipelines  
-- Implementing modern deep learning architectures for practical use cases  
+###  Projects
+- **ML Regression & Classification** – supervised learning models with appropriate evaluation metrics  
+- **End-to-End Data Science Pipelines** – data cleaning, feature engineering, modeling, and validation  
+- **Model Evaluation & Optimization** – cross-validation, hyperparameter tuning, and performance analysis  
+
+---
+
+### 📊 GitHub Statistics
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=Naidi47&show_icons=true&theme=dark" />
+</p>
+
+---
+
+###  Current Focus
+- Building and evaluating end-to-end machine learning workflows  
+- Implementing modern deep learning architectures for applied use cases  
 - Developing foundational NLP and Computer Vision applications  
 - Writing clean, maintainable, and reproducible ML code following best practices
+
 
