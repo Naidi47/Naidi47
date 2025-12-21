@@ -9,7 +9,7 @@ structured, project-based learning and real-world problem solving.
 ---
 
 ### 🌐 Professional Network
-<p1> My Portfolio:  https://portfolio-git-main-naidi47s-projects.vercel.app/
+<p1> My Portfolio:  https://brahmanaidu.vercel.app/
 
 
 <p>
